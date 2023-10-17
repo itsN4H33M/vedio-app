@@ -1,2 +1,2 @@
-export const serverURL = 'http://localhost:4000'
+export const serverURL = 'https://uplayer-json-server.onrender.com'
 
